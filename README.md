@@ -29,7 +29,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Lip-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 <img align="center" alt="Lip-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
- 
+  
+<img align="center" alt="Lip-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
+  
  </div>
  
 </div>
