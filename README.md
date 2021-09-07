@@ -32,6 +32,10 @@ Here are some ideas to get you started:
   
 <img align="center" alt="Lip-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
   
+<img align="center" alt="Lip-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
+  
+  
+  
  </div>
  
 </div>
