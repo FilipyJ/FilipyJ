@@ -5,15 +5,14 @@
 
 Here are some ideas to get you started:
 -->
+
 - 📚 Cursando Analise e Desenvolvimento de Sistemas.
-- 🌱 Estou a alguns meses estudando front-end...
-- 🙋‍♂️ Estudando Frontend, HTML CSS e JavaScript.
-- 🤔 Pretendo Aprender Backend e me tornar FullStack. 
-<!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+- ⚡ Estou a alguns meses estudando Frontend, HTML e CSS.
+- 🚀 Estudando JavaScript.
+- 🙋‍♂ Pretendo Aprender Backend e me tornar FullStack.
+- 🎉 Bem Vindo (a) 
+
+
  
   <div style="margin-bottom: 0px">
   <a href="https://github.com/FilipyJ">
