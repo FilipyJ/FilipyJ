@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 <hr>
   
-  <a href="josephfilipy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   
+   <a href = "mailto:josephfilipy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   
 
