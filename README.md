@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔓 Estudando: HTML e CSS.
 - 🔓 Estudando BootsTrap.
 - 🔓 Estudando JavaScript.
- ## Back-End
+  ## Back-End
 - 🙋‍♂ Pretendo Aprender Backend e me tornar FullStack.
 - 🎉 Bem Vindo (a) 
 
