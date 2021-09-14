@@ -7,9 +7,11 @@ Here are some ideas to get you started:
 -->
 
 - 📚 Cursando Analise e Desenvolvimento de Sistemas.
-- ⚡ Estudando: HTML e CSS.
-- 🎆 Estudando BootsTrap.
-- 🚀 Estudando JavaScript.
+  ## Front-End
+- 🔓 Estudando: HTML e CSS.
+- 🔓 Estudando BootsTrap.
+- 🔓 Estudando JavaScript.
+ ## Back-End
 - 🙋‍♂ Pretendo Aprender Backend e me tornar FullStack.
 - 🎉 Bem Vindo (a) 
 
