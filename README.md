@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+<div>
+
 - 📚 Cursando Analise e Desenvolvimento de Sistemas.
     ### 👨‍💻 Front-End 
     <ul>
@@ -13,7 +15,8 @@ Here are some ideas to get you started:
       <li>🔓 Estudando BootsTrap.
       <li>🔓 Estudando JavaScript.
    </ul>
-   
+  
+</div>
   
   ### 👨‍💻 Back-End
    <ul>
@@ -22,22 +25,12 @@ Here are some ideas to get you started:
 
    </ul>
    
-   
- <h1>🎉 Bem Vindo (a) </h1>
+  
+ <h1>🎉 Bem Vindo (a) </h1> 
  
- <hr>
-   
-
  
-  <div style="margin-bottom: 0px">
-  <a href="https://github.com/FilipyJ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipyJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipyJ&layout=compact&langs_count=7&theme=dark"/>
-
-   
-<hr>
-   
-<div>
+ 
+<div align="center">
   
 <img align="center" alt="Lip-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lip-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -51,18 +44,32 @@ Here are some ideas to get you started:
 <img align="center" alt="Lip-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> 
 
   
+   </div>
   
-  
- </div>
- 
+
+ <div align="center">
+     
+ ##
+     
+ <a href = "mailto:josephfilipy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
 </div>
 
+ 
+ <hr>
+   
 
-<hr>
-  
-  
-  
-   <a href = "mailto:josephfilipy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  <div style="margin-bottom: 0px">
+    
+    
+  <a href="https://github.com/FilipyJ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipyJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipyJ&layout=compact&langs_count=7&theme=dark"
 
+ </div> 
+  
+  
+  
   
 
