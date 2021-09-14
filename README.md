@@ -7,14 +7,26 @@ Here are some ideas to get you started:
 -->
 
 - 📚 Cursando Analise e Desenvolvimento de Sistemas.
-  ## Front-End
-- 🔓 Estudando: HTML e CSS.
-- 🔓 Estudando BootsTrap.
-- 🔓 Estudando JavaScript.
-  ## Back-End
-- 🙋‍♂ Pretendo Aprender Backend e me tornar FullStack.
-- 🎉 Bem Vindo (a) 
+    ### 👨‍💻 Front-End 
+    <ul>
+      <li>🔓 Estudando: HTML e CSS.
+      <li>🔓 Estudando BootsTrap.
+      <li>🔓 Estudando JavaScript.
+   </ul>
+   
+  
+  ### 👨‍💻 Back-End
+   <ul>
+  
+  <li> 🔒 Pretendo Aprender Backend e me tornar FullStack. </li>
 
+   </ul>
+   
+   
+ <h1>🎉 Bem Vindo (a) </h1>
+ 
+ <hr>
+   
 
  
   <div style="margin-bottom: 0px">
