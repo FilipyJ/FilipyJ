@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    </ul>
    
   
- <h1>🎉 Bem Vindo (a) </h1> 
+ <h1> Bem Vindo (a) </h1> 
  
  
  
