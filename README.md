@@ -12,8 +12,10 @@ Here are some ideas to get you started:
     ### 👨‍💻 Front-End 
     <ul>
       <li>🔓 Estudando: HTML e CSS.
-      <li>🔓 Estudando BootsTrap.
       <li>🔓 Estudando JavaScript.
+      <li>🔓 Estudando ReactJS.
+          
+      
    </ul>
   
 </div>
